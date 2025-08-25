@@ -3,15 +3,15 @@
 
 ## File 1
 
-Complete a Paragraph Analyzer program.  Given a paragraph, count the number of words, find the longest word, find the shortest word, and count the number of "the"s in the paragraph. 
+Complete a Text Analyzer program. Given a word, count the number of letters, the index of the first vowel, the same word all uppercase, and the secret string(if possible). The secret string is the first 5 characters all lowercase, the last three letters all uppercase, and the number of letters in the word.
 
 ```
-Input: Programming is both an art and a science. It requires creativity to design solutions and precision to implement them correctly. Many beginners start with small projects, such as calculators or simple games, before moving on to larger challenges. Along the way, they learn about algorithms, debugging, and the importance of writing clean, readable code.
+Input: Programming
 
-Number of words: 54
-Longest word: programming
-Shortest word: a
-Occurrences of "the": 2
+Number of letters: 11
+Index of the first vowel:2
+Uppercase: PROGRAMMING
+Secret string:PROGRing11
 ```
 
 
